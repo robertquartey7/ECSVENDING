@@ -14,9 +14,9 @@ function ContactInfo() {
           <span className="text-sm">
             <a href="tel:347-638-5747"> 1 347-638-5747</a>
           </span>
-          <span className="text-sm">
+          {/* <span className="text-sm">
             <a href="tel:347-638-5747"> 1 347-638-5747</a>
-          </span>
+          </span> */}
         </div>
       </div>
 
