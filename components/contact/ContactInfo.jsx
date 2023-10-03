@@ -12,10 +12,10 @@ function ContactInfo() {
         </div>
         <div>
           <span className="text-sm">
-            <a href="tel:123-456-7891"> 1(234)567-891</a>
+            <a href="tel:347-638-5747"> 1 347-638-5747</a>
           </span>
           <span className="text-sm">
-            <a href="tel:123-498-7654"> 1 (234) 987-654</a>
+            <a href="tel:347-638-5747"> 1 347-638-5747</a>
           </span>
         </div>
       </div>
@@ -25,16 +25,14 @@ function ContactInfo() {
           <MapPinIcon className="text-white h-5" />
           <span className="text-sm">LOCATION</span>
         </div>
-        <span className="text-sm">121 Rock Street, New York, NY 10456</span>
+        <span className="text-sm">New York, NY</span>
       </div>
       <div>
         <div className="flex gap-2">
           <ClockIcon className="h-5" />
           <span className="text-sm">BUSINESS HOURS</span>
         </div>
-        <span className="text-sm">
-          Mon-Fri.... 10am-8pm, Sat, Sun ..... closed
-        </span>
+        <span className="text-sm">Mon-Sat.... 9am-6pm, Sun ..... closed</span>
       </div>
     </>
   );
